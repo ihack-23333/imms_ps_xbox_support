@@ -12,6 +12,7 @@ In the future, it will also support connecting an xbox controller to support xbo
 
 
 ### Step by step😃
+
 * 1 Base firmware update via immplatform->base->misc->update->local update.Note that different models of wheelbases need to match different programs, otherwise the wheelbases may not be used normally.
 
 * 2.1 Connect the DualShock 4 to the usb port on the back of the wheelbase, reboot the wheelbase and connect to the PS4.
