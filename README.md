@@ -7,6 +7,5 @@ Internal changes to the imms wheelbase program, adding support for ps and xbox, 
 
 *In the future, it will also support connecting an xbox controller to support xbox
 
-
-
 Note that different models of wheelbases need to match different programs, otherwise the wheelbases may not be used normally
+
