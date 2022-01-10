@@ -15,6 +15,6 @@ In the future, it will also support connecting an xbox controller to support xbo
 
 * 2.1 Connect the DualShock 4 to the usb port on the back of the wheelbase, reboot the wheelbase and connect to the PS4 to simulate a steering wheel.
 
-* 2.2 Connect a third party wired only to the usb port on the back of the wheelbase, reboot the wheelbase and connect to the PS5 to simulate a steering wheel.
+* 2.2 Connect a third party wired only PS4 controller(only hori ps4 mini pad is supported now) to the usb port on the back of the wheelbase, reboot the wheelbase and connect to the PS5 to simulate a steering wheel.
 
 * 3 Play！
