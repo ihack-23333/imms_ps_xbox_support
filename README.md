@@ -24,6 +24,6 @@ In the future, it will also support connecting an xbox controller to support xbo
 
 ### About the experience 😎
 
-When the base is in ps mode, it will automatically use the preset optimal force feedback settings.
+When the wheelbases is in ps mode, it will automatically use the preset optimal force feedback settings.
 
 At present, it is a device that is simulated as a gear transmission, so the feel can be further improved by updating. Welcome to Star or Fork the project to get the latest version in time.
