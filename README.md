@@ -32,3 +32,7 @@ When the wheelbases is in ps mode, it will automatically use the preset optimal 
 Note that the authentication PS controller(DualShock 4 or hori ps4 mini pad) must be connected, otherwise the base will be disconnected in about 8 minutes.
 
 More authentication controllers will be supported in the future, welcome to Star or Fork the project to get the latest version in time.
+
+This project will be updated with the official imms update to ensure access to the latest features.
+
+This project is an open source firmware project. If you have any questions or needs, please submit an issue.
