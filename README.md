@@ -1,7 +1,7 @@
 # imms_ps_xbox_support
 
 
-### Contents🤗
+### Contents 🤗
 
 Internal changes to the imms wheelbase program, adding support for ps and xbox, which can be used for wheelbase to adapt to ps and xbox.
 
@@ -11,7 +11,7 @@ In the future, it will also support connecting an xbox controller to support xbo
 
 
 
-### Step by step😃
+### Step by step 😃
 
 * 1 Base firmware update via immplatform->base->misc->update->local update.Note that different models of wheelbases need to match different programs, otherwise the wheelbases may not be used normally.
 
@@ -23,6 +23,12 @@ In the future, it will also support connecting an xbox controller to support xbo
 
 
 * 4 Play！
+
+
+
+### Buttons 😉 
+![image](pic/label.png)
+
 
 
 ### About the experience 😎
