@@ -18,6 +18,8 @@ In the future, it will also support connecting an xbox controller to support xbo
 * 2.1 For ps4,connect the DualShock 4 to the usb port on the back of the wheelbase, reboot the wheelbase and connect to the ps4.
 
 * 2.2 For ps4 or ps5,connect a third party wired only PS4 controller (<i> only hori ps4 mini pad is supported now </i>) to the usb port on the back of the wheelbase, reboot the wheelbase and connect to the ps4 or ps5.
+![image](pic/hori_ps_pad.png)
+
 
 * 3 Requires an imms official compatible pedal to be connected to the wheelbase expansion port, otherwise you'll have no accelerator and no brakes
 
